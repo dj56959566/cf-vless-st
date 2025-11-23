@@ -28,3 +28,9 @@ ip/pyip/proxyip(失败备用IP,如ip=1.2.3.4:443)
 proxyall/globalproxy(全局代理标志)
 
 snippets代码为 @zj 这个大佬修改的，来源为https://t.me/HeroCore/105471
+
+<img width="1170" height="1131" alt="image" src="https://github.com/user-attachments/assets/df4f061f-64de-43d7-a54f-9c3191c03858" />
+
+https://github.com/duquancai/cf-vless-st/tree/SS1.0
+
+
