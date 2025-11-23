@@ -10,8 +10,14 @@ ss-clash-shadowrocket (https://ciallo.775678.xyz/sc)
 
 ss-singbox (https://ciallo.775678.xyz/ss)
 
-vless://{UUID}@www.visa.cn:443?encryption=none&security=tls&{自定义域名}&allowInsecure=1&type=ws&host={自定义域名}&path=%2F%3Fed%3D2560#visaCN
-UUID你代码里设置的，host和sni换你部署完给你的那个域名
+vless://代码里的uuid@www.visa.cn:443?encryption=none&security=tls&allowInsecure=1&type=ws&host=域名&path=%2Fproxyip%3Dtw.william.ccwu.cc#visaCN
+
+UUID你代码里设置的，host和sni换你部署完给你的那个域名/proxyip=1.1.1.1:443
+
+https://github.com/duquancai/cf-vless-st 
+
+https://github.com/proxifly/free-proxy-list(反代)
+
 
 📋 URL路径参数速查表 
 
