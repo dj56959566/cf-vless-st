@@ -10,6 +10,9 @@ ss-clash-shadowrocket (https://ciallo.775678.xyz/sc)
 
 ss-singbox (https://ciallo.775678.xyz/ss)
 
+vless://{UUID}@www.visa.cn:443?encryption=none&security=tls&{自定义域名}&allowInsecure=1&type=ws&host={自定义域名}&path=%2F%3Fed%3D2560#visaCN
+UUID你代码里设置的，host和sni换你部署完给你的那个域名
+
 📋 URL路径参数速查表 
 
 参数用&连接,示例:
